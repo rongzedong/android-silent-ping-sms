@@ -1,7 +1,5 @@
 # Android Silent SMS Ping
 
-[<img src="https://f-droid.org/badge/get-it-on.png" alt="Get it on F-Droid" height="60">](https://f-droid.org/app/com.itds.sms.ping) [<img src="getapkfromgithub.png" alt="Download APK from GitHub" height="60">](https://github.com/itds-consulting/android-silent-ping-sms/releases)
-
   - Does not require rooted device
   - SMS will not be delivered as standard SMS, target user will receive no visual notification about SMS being received
 
